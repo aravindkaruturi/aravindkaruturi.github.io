@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my website!"
+title: "Entwine: World of Data Science and Supply Chain"
 ---
 
-You're up and running!
+<hr>
+<img src="images/skills.png" style="width:40%; margin-right: 5px" align="left">
+<img src="images/supplychain.png" style="width:60%; margin-right: 5px" align="right">

@@ -7,11 +7,11 @@ text-align: left}
 </style>
 
 
-<img src="images/aravind2.jpg" style="width:25%; border:10px ; margin-right: 20px" align="left">
+<img src="images/aravind.jpg" style="width:25%; border:10px ; margin-right: 20px" align="left">
 
 #### I am a data science enthusiast trying to understand the role of ***data science*** in the world of business and the ***supply chain*** in specfic.  <br>
-#### I am currently pursuing MBA in Operations Management from Symbiosis Institute of Operations     Management, Nashik, India.** <br>
-#### I previously worked in Hero MotoCorp Limited, handling operations of an engine assembly line. There I   gained understanding on operational aspects of production.** 
+#### I am currently pursuing MBA in Operations Management from Symbiosis Institute of Operations     Management, Nashik, India. <br>
+#### I previously worked in Hero MotoCorp Limited, handling operations of an engine assembly line. There I   gained understanding on operational aspects of production. 
 <br>
 <br>
 <br>

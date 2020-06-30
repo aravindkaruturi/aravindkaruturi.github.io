@@ -12,7 +12,7 @@ navbar:
       href: about.html
     - text: "Blog"
       icon: fa-rss
-      href: https://aravindkaruturi.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://aravindkaruturi.github.io/articles/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
